@@ -1,7 +1,3 @@
----
-tags: html css javascript porfolio-page
----
-
 # Natalie Bencomo's personal/portfolio website
 
 ## Overview
