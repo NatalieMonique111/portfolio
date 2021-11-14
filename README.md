@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a portfolio site built with HTML and CSS.
+This project is a portfolio site built with HTML and CSS. Inspired by [Ania Kubow](https://www.youtube.com/watch?v=-D6oTPA4vXc) with additional changes to the contact section and UI.
 
 ### Languages
 
